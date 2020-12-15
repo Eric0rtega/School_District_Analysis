@@ -11,7 +11,7 @@
 ### ![Ride Fare Box and Whisker Plot](images/test_summary_by_school_type.png)
 ### ![Ride Fare Box and Whisker Plot](images/school_district_summary.png)
 ### Summary
-    In summary, the smallest school sizes performed the best overall. 
+    In summary, the smaller school sizes performed the best overall. 
 
 ### Technologies Used
     * Python 3
